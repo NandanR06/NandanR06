@@ -39,7 +39,7 @@ I'm a **MERN Stack Engineer** with a passion for crafting scalable and responsiv
 ### 📈 GitHub Stats:
 <div  align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nandan&show_icons=true&theme=radical" width="400px" height="330px" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"  width="380px" height="345px" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical"  width="420px" height="345px" alt="GitHub Streak" style="margin-bottom:-7px;"/>
 </div>
 
 ---
