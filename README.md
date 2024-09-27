@@ -24,7 +24,7 @@ I'm a **MERN Stack Engineer** with a passion for crafting scalable and responsiv
 - **Database:**
   - MongoDB
 - **Programming Languages:**
-  - C,Java
+  - C, Java
 
 ### 🧠 I’m Learning:
 - Improving skills in **JavaScript Frameworks** like Next.js and Svelte.
@@ -37,8 +37,8 @@ I'm a **MERN Stack Engineer** with a passion for crafting scalable and responsiv
 ---
 
 ### 📈 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nandan&show_icons=true&theme=radical" width="440" alt="GitHub Stats"/>
+<div style="display: flex; flex-direction: row; justify-content: space-between; align-items: center;">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nandan&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
 </div>
 
