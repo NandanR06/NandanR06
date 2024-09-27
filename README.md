@@ -9,7 +9,7 @@ I'm a **MERN Stack Engineer** with a passion for crafting scalable and responsiv
 ### 🛠️ My Tech Stack:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/NandanR06/NandanR06/refs/heads/main/logo.webp" alt="Skills Infographic" width="500"/>
+  <img src="https://github.com/NandanR06/NandanR06/blob/main/blog_image_mern_stck.jpeg?raw=true" alt="Skills Infographic" width="500"/>
 </div>
 
 ---
