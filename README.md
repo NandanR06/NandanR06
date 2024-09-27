@@ -4,7 +4,7 @@
 
 
 ## 🚀 About Me:
-I'm a **MERN Stack Engineer** with a passion for crafting scalable and responsive web applications. My expertise spans across both frontend and backend technologies, allowing me to develop full-stack applications with ease.
+I'm a **MERN Stack Developer** with a passion for crafting scalable and responsive web applications. My expertise spans across both frontend and backend technologies, allowing me to develop full-stack applications with ease.
 
 ### 🛠️ My Tech Stack:
 
