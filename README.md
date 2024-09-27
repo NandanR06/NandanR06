@@ -47,5 +47,5 @@ I'm a **MERN Stack Engineer** with a passion for crafting scalable and responsiv
 
 ### 📫 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/nandan-r-489480273/)
-- [Portfolio](https://yourportfolio.com)
+  
 
