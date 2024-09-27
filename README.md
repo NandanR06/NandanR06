@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋, I'm Nandan R
 
-<!--
-**NandanR06/NandanR06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![header](./path_to_the_header_image.png)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me:
+I'm a **MERN Stack Engineer** with a passion for crafting scalable and responsive web applications. My expertise spans across both frontend and backend technologies, allowing me to develop full-stack applications with ease.
+
+### 🛠️ My Tech Stack:
+
+<div align="center">
+  <img src="./path_to_skill_graphic.png" alt="Skills Infographic" width="500"/>
+</div>
+
+---
+
+### 💻 Core Skills:
+
+- **Frontend:**
+  - HTML5, CSS3, JavaScript (ES6+), React.js
+  - Styling Libraries: Material UI, Bootstrap
+- **Backend:**
+  - Node.js, Express.js
+- **Database:**
+  - MongoDB
+- **Programming Languages:**
+  - C,Java
+
+### 🧠 I’m Learning:
+- Improving skills in **JavaScript Frameworks** like Next.js and Svelte.
+- Exploring **Cloud Services** and **DevOps**.
+
+### 🎯 My Goals:
+- **Long-term:** Contribute to open-source projects.
+- **Short-term:** Master TypeScript and improve performance optimization skills.
+
+---
+
+### 📈 GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical" alt="GitHub Streak"/>
+</div>
+
+---
+
+### 📫 How to reach me:
+- [LinkedIn](https://www.linkedin.com/in/nandan-r-489480273/)
+- [Portfolio](https://yourportfolio.com)
+
