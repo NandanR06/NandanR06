@@ -2,7 +2,6 @@
 
 ---
 
-![header](./path_to_the_header_image.png)
 
 ## 🚀 About Me:
 I'm a **MERN Stack Engineer** with a passion for crafting scalable and responsive web applications. My expertise spans across both frontend and backend technologies, allowing me to develop full-stack applications with ease.
@@ -10,7 +9,7 @@ I'm a **MERN Stack Engineer** with a passion for crafting scalable and responsiv
 ### 🛠️ My Tech Stack:
 
 <div align="center">
-  <img src="./path_to_skill_graphic.png" alt="Skills Infographic" width="500"/>
+  <img src="https://raw.githubusercontent.com/NandanR06/NandanR06/refs/heads/main/logo.webp" alt="Skills Infographic" width="500"/>
 </div>
 
 ---
