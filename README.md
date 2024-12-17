@@ -17,8 +17,8 @@ I'm a **MERN Stack Developer** with a passion for crafting scalable and responsi
 ### 💻 Core Skills:
 
 - **Frontend:**
-  - HTML5, CSS3, JavaScript (ES6+), React.js
-  - Styling Libraries: Material UI, Bootstrap
+  - HTML5, CSS3, JavaScript (ES6+),TypeScript React.js
+  - Styling Libraries: Material UI, Bootstrap,tailwindcss
 - **Backend:**
   - Node.js, Express.js
 - **Database:**
